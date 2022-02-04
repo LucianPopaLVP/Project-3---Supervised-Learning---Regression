@@ -1,0 +1,15 @@
+One of the main objectives of this course is to help you gain hands-on experience in communicating insightful and impactful findings to stakeholders. In this project you will use the tools and techniques you learned throughout this course to train a few linear regressions on a data set that you feel passionate about, select the regression that best suits your needs, and communicate insights you found from your modeling exercise.
+
+After going through some guided steps, you will have insights that either explain or predict your outcome variable. As a main deliverable, you will submit a report that helps you focus on highlighting your analytical skills and thought process.
+
+Write your report from the perspective of a Chief Data Officer or the Head of Analytics that will assess whether your final linear regression went through all the necessary steps to achieve the main objective of your analysis.
+
+This report is intended as a summary of your findings, not as a code review. Optionally, you can submit your code as a python notebook or as a print out in the appendix of your document.
+
+The grading will center around 5 main points:
+
+Does the report include a section describing the data?
+Does the report include a paragraph detailing the main objective(s) of this analysis?
+Does the report include a section with variations of linear regression models and specifies which one is the model that best suits the main objective(s) of this analysis.
+Does the report include a clear and well presented section with key findings related to the main objective(s) of the analysis?
+Does the report highlight possible flaws in the model and a plan of action to revisit this analysis with additional data or different predictive modeling techniques?
