@@ -28,7 +28,8 @@ The dataset contains 9358 instances of hourly averaged responses from an array o
 * Temperature in Â°C
 * Relative Humidity (%)
 * AH Absolute Humidity
-This dataset is from the UCI machine learning repository and contains hourly averaged responses from an air quality multi-sensor device that was located in a significantly polluted area at road level in an undisclosed Italian city. This data was collected over the course of approx one year (from March 2004 - February 2005)
+
+### This dataset is from the UCI machine learning repository and contains hourly averaged responses from an air quality multi-sensor device that was located in a significantly polluted area at road level in an undisclosed Italian city. This data was collected over the course of approx one year (from March 2004 - February 2005)
 
 ## For reference: https://archive.ics.uci.edu/ml/datasets/Air+Quality#
 
